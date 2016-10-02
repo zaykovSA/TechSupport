@@ -1,0 +1,13 @@
+c:\users\administrator\documents\visual studio 2013\Projects\TechSupport\TechSupport\obj\Debug\TechSupport.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2013\Projects\TechSupport\TechSupport\obj\Debug\TechSupport.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2013\Projects\TechSupport\TechSupport\bin\Debug\Newtonsoft.Json.dll
+c:\users\administrator\documents\visual studio 2013\Projects\TechSupport\TechSupport\obj\Debug\TechSupport.EnterF.resources
+c:\users\administrator\documents\visual studio 2013\Projects\TechSupport\TechSupport\bin\Debug\StatisticsG.exe.config
+c:\users\administrator\documents\visual studio 2013\Projects\TechSupport\TechSupport\bin\Debug\StatisticsG.exe
+c:\users\administrator\documents\visual studio 2013\Projects\TechSupport\TechSupport\bin\Debug\StatisticsG.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\TechSupport\TechSupport\obj\Debug\StatisticsG.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2013\Projects\TechSupport\TechSupport\obj\Debug\StatisticsG.exe
+c:\users\administrator\documents\visual studio 2013\Projects\TechSupport\TechSupport\obj\Debug\StatisticsG.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\TechSupport\TechSupport\obj\Debug\StatisticsG.ClientsForm.resources
+c:\users\administrator\documents\visual studio 2013\Projects\TechSupport\TechSupport\obj\Debug\StatisticsG.StatisticsForm.resources
+c:\users\administrator\documents\visual studio 2013\Projects\TechSupport\TechSupport\obj\Debug\StatisticsG.WorksForm.resources
